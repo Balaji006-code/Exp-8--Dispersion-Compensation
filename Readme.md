@@ -74,7 +74,11 @@ The main physical components of this layout are:
 - Record similar measurements for comparison.  
 
 ---
+## Block Diagram
 
+<img width="620" height="323" alt="image" src="https://github.com/user-attachments/assets/24122cba-bf9c-4ba9-b94c-a78bab709921" />
+
+---
 ## TABULATION AND CALCULATION
 
 <img width="1037" height="1599" alt="image" src="https://github.com/user-attachments/assets/ad1643f2-1dc4-4638-9503-3b22ead202cd" />
